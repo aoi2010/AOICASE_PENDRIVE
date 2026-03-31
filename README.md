@@ -10,7 +10,7 @@ I made a case with two parts to store all my father's pendrives.
 
 #### The Bottom Part - Storage Area
 
-![Case_Bottom](CAD\Separate\Case_Bottom.png)
+![Case_Bottom](CAD/Separate/Case_Bottom.png)
 
 This is a Cube with the following Specifications-
 - • Length - 120mm
@@ -22,7 +22,7 @@ Also it has 8 holes for [6mm Diameter Neodymium Disc Magnets N35 with 3mm thickn
 ---
 
 #### The Top Part - Lid For The Storage Area
-![Case_Lid](CAD\Separate\Case_Lid.png)
+![Case_Lid](CAD/Separate/Case_Lid.png)
 
 This is the lid for the Bottom Part of the Case.
 It has the following features :-
@@ -40,7 +40,7 @@ I faced the following problems while designing the case.
 4. Finally I don't like writing paragraphs(I hate the writing portion in the English Question Paper) but I was forced to write this journal and also the README in the Github Repo.
 
 # The Final Design
-![FINALCASE](CAD\CASE_PENDRIVE.png)
+![FINALCASE](CAD/CASE_PENDRIVE.png)
 
 ## Image Showcase
 <!-- 
@@ -48,12 +48,10 @@ I faced the following problems while designing the case.
 -->
 #### The Render of The Final Design
 ![CASE_RENDER](https://stasis.hackclub-assets.com/images/1774935876877-nhtlcu.png)
-#### The Final Design of The Case
-![FINALCASE](CAD\CASE_PENDRIVE.png)
 #### The Separate Parts of The Case
 | Bottom Part | Top Part |
 | --- | --- |
-| ![Case_Bottom](https://stasis.hackclub-assets.com/images/1774934830725-ndpbji.png) | ![Case_Lid](https://stasis.hackclub-assets.com/images/1774935275888-ock3qs.png) |
+| ![Case_Bottom](CAD/Separate/Case_Bottom.png) | ![Case_Lid](CAD/Separate/Case_Lid.png) |
 
 # Bill of Materials(BOM)
 | Item | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
